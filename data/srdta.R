@@ -27,6 +27,7 @@ unlink("srgenos.raw")
 
 unlink(genofile)
 unlink(phenofile)
+unlink(paste(adpr, "/original_data/", sep=""), recursive = T)
 rm(adpr, genofile, phenofile)
 
 } else {
