@@ -3,12 +3,13 @@
 \alias{GenABEL.data}
 \docType{package}
 \title{
-What the package does (short line)
-~~ package title ~~
+GenABEL.data: An R package for storing GenABEL data
 }
 \description{
-More about what it does (maybe more than one line)
-~~ A concise (1-5 lines) description of the package ~~
+GenABEL.data contains six files with data which is used by examples of GenABEL. 
+These are ge03d2.clean.RData, ge03d2c.RData, ge03d2ex.clean.RData, ge03d2ex.RData, ge03d2.RData and srdta.RData.
+The files are the same as they were GenABEL package. 
+
 }
 \details{
 \tabular{ll}{
@@ -16,27 +17,17 @@ Package: \tab GenABEL.data\cr
 Type: \tab Package\cr
 Version: \tab 1.0\cr
 Date: \tab 2013-11-27\cr
-License: \tab What license is it under?\cr
+License: \tab GPL (>= 2)\cr
 }
-~~ An overview of how to use the package, including the most important ~~
-~~ functions ~~
+GenABEL.data package can be used only together with GenABEL package. 
 }
 \author{
-Who wrote it
-
-Maintainer: Who to complain to <yourfault@somewhere.net>
-~~ The author and/or maintainer of the package ~~
+Authors: Maksim Struchalin <m.v.struchalin@mail.ru> and GenABEL project developers <genabel.project@gmail.com>
 }
 \references{
-~~ Literature or other references for background information ~~
 }
-~~ Optionally other standard keywords, one per line, from file KEYWORDS in ~~
-~~ the R documentation directory ~~
 \keyword{ package }
 \seealso{
-~~ Optional links to other man pages, e.g. ~~
-~~ \code{\link[<pkg>:<pkg>-package]{<pkg>}} ~~
 }
 \examples{
-~~ simple examples of the most important functions ~~
 }
