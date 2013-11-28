@@ -25,9 +25,12 @@ GenABEL.data package can be used only together with GenABEL package.
 Authors: Maksim Struchalin <m.v.struchalin@mail.ru> and GenABEL project developers <genabel.project@gmail.com>
 }
 \references{
+www.genabel.org
 }
 \keyword{ package }
 \seealso{
+GenABEL
 }
 \examples{
+data(srdta)
 }
