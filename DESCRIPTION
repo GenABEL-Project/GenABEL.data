@@ -3,8 +3,8 @@ Type: Package
 Title: Package contains data which is used by GenABEL example and test functions
 Version: 1.0
 Date: 2013-12-09
-Authors@R: c(person("Maksim Struchalin", "Developer", role = c("aut", "cre"), email = "m.v.struchalin@mail.ru"),
-					   person("GenABEL project developers", "Developer", role = "aut", email = "genabel.project@gmail.com"))
+Author: Maksim Struchalin <m.v.struchalin@mail.ru> and GenABEL project developers <genabel.project@gmail.com>
+Maintainer: Maksim Struchalin <m.v.struchalin@mail.ru> and GenABEL project developers <genabel.project@gmail.com>
 Depends: R (>= 2.15.0)
 Description: GenABEL.data package consists of a number of data files used by GenABEL functions
 License: GPL (>= 2)
