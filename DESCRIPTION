@@ -1,13 +1,15 @@
 Package: GenABEL.data
 Type: Package
-Title: Package contains data which is used by GenABEL example and test functions
+Title: Data Used by the GenABEL Examples and Test Functions
 Version: 1.0.0
 Date: 2013-12-09
-Author: Maksim Struchalin <m.v.struchalin@mail.ru> and GenABEL project developers <genabel.project@gmail.com>
+Author: Maksim Struchalin <m.v.struchalin@mail.ru> and GenABEL project developers <genabel-devel@lists.r-forge.r-project.org>
 Maintainer: Maksim Struchalin <m.v.struchalin@mail.ru>
 Depends: R (>= 2.15.0)
-Description: GenABEL.data package consists of a number of data files used by GenABEL functions
+Description: The GenABEL.data package consists of a number of data
+    files used by GenABEL functions and examples.
 License: GPL (>= 2)
-URL: http://www.genabel.org, http://forum.genabel.org, http://genabel.r-forge.r-project.org/
+URL: http://www.genabel.org,
+     http://forum.genabel.org,
+     http://genabel.r-forge.r-project.org/
 BugReports: http://r-forge.r-project.org/tracker/?group_id=505
-
