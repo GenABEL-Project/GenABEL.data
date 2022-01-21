@@ -1,0 +1,32 @@
+* GenABEL.data
+  GenABEL.data is an R package containing the data files used by the
+  GenABEL package.
+
+  On January 21st, 2022 the source code of GenABEL.data was migrated
+  from Subversion to Git. This means that the code in the [[https://r-forge.r-project.org/scm/viewvc.php/pkg/GenABEL.data/?root=genabel][GenABEL
+  R-Forge repository]] is no longer the canonical source of this
+  project. The canonical GenABEL source code can now be found on [[https://github.com/GenABEL-Project/GenABEL.data][the
+  GenABEL Github page]] of [[https://github.com/GenABEL-Project][the GenABEL project]].
+** IMPORTANT NOTICE
+   Early 2018, PolyOmica, the main sponsor of the GenABEL project
+   announced that it would discontinue its support. As PolyOmica was
+   our only sponsor, we regretfully had to announce the
+   discontinuation of the GenABEL Project.
+** License
+   GenABEL is licensed under the GNU Public Licence v2 or later.
+
+   #+begin_example
+   This program is free software; you can redistribute it and/or
+   modify it under the terms of the GNU General Public License
+   as published by the Free Software Foundation; either version 2
+   of the License, or (at your option) any later version.
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+   #+end_example
